@@ -1,0 +1,6 @@
+workspace(name = "smoke_test_basics")
+
+local_repository(
+    name = "dwtj_rules_embed",
+    path = "../../..",
+)
